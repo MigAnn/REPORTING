@@ -1,3 +1,4 @@
 # REPORTING
-[![Build status](https://ci.appveyor.com/api/projects/status/tt6lp7gchya2ty0v/branch/main?svg=true)](https://ci.appveyor.com/project/MigAnn/reporting/branch/main)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/as4549hnlkm3ibh8/branch/master?svg=true)](https://ci.appveyor.com/project/MigAnn/reporting-x8dm5/branch/master)
 
